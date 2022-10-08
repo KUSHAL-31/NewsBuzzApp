@@ -18,7 +18,7 @@ samples, guidance on mobile development, and a full API reference.
 <!DOCTYPE html>
 <html lang="en">
   <body>
-    <img src="https://drive.google.com/uc?export=view&id=1XrMLivYUOuAIWr0a6scMWDovRlywYxGw" height="300" width="600"/>
+    <img src="https://drive.google.com/uc?export=view&id=1XrMLivYUOuAIWr0a6scMWDovRlywYxGw" height="600" width="300"/>
   </body>
  </html>
 
